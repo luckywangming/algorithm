@@ -14,7 +14,7 @@ module.exports = {
     }]
   },
   devServer:{
-    contentBase:path.resolve(__dirname,"../example"),
+    contentBase:path.resolve(__dirname,"../"),
     host:'localhost',
     compress:true,
     port:'8090'
