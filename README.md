@@ -2,6 +2,10 @@
 
 有趣的算法
 
+## 官网
+
+http://luckywangming.github.io
+
 ## 简介
 
 一些有趣算法的实现及不同的写法
@@ -10,7 +14,7 @@
 
 - 下载地址 https://github.com/luckywangming/algorithm/releases
 - `npm i js-algorithm`
-- CDN http://unpkg.com/js-algorithm
+- CDN http://unpkg.com/js-algorithm/dist/bundle.js
 
 ## 快速使用
 
