@@ -10,6 +10,7 @@
 
 - 下载地址 https://github.com/luckywangming/algorithm/releases
 - `npm i js-algorithm`
+- CDN http://unpkg.com/js-algorithm
 
 ## 快速使用
 
