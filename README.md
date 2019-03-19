@@ -8,7 +8,8 @@
 
 ## 安装及下载
 
-babel webpack(暂时)
+- 下载地址 https://github.com/luckywangming/algorithm/releases
+- `npm i js-algorithm`
 
 ## 快速使用
 
