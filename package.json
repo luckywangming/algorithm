@@ -9,7 +9,10 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"webpack-dev-server --config=config/webpack.dev.js",
+    "dev": "webpack --config=config/webpack.dev.js",
+    "build": "webpack --config=config/webpack.build.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +26,15 @@
   "bugs": {
     "url": "https://github.com/luckywangming/algorithm/issues"
   },
-  "homepage": "https://github.com/luckywangming/algorithm#readme"
+  "homepage": "https://github.com/luckywangming/algorithm#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  }
 }
