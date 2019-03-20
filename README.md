@@ -16,9 +16,11 @@ http://luckywangming.github.io
 - `npm i js-algorithm`
 - CDN http://unpkg.com/js-algorithm/dist/bundle.js
 
-## 经典排序-javascript
+## 经典排序-js
 
 - [冒泡排序](./doc/sort/bubble.md)
+- [选择排序](./doc/sort/selection.md)
+- [快速排序](./doc/sort/quick.md)
 
 ## 交流 & 提问
 

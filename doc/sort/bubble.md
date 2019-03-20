@@ -11,6 +11,9 @@
   * @return {Array} 排序结果
   */
   const bubbleSort = (arr, fn) => {
+    if(!arr)return "数组为空"
+    if (arr.length <= 1) return arr
+    
     let count = 0
     fn = fn || ((a, b) => a - b) //默认升序
     for (let i = 0; i < arr.length; i++) {
