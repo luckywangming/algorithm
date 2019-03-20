@@ -17,6 +17,7 @@ module.exports = {
     contentBase:path.resolve(__dirname,"../"),
     host:'localhost',
     compress:true,
-    port:'8090'
+    port:'8090',
+    open:true
   }
 }

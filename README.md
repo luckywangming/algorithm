@@ -1,6 +1,6 @@
 # algorithm
 
-有趣的算法
+常见的、经典的算法js实现
 
 ## 官网
 
@@ -16,12 +16,9 @@ http://luckywangming.github.io
 - `npm i js-algorithm`
 - CDN http://unpkg.com/js-algorithm/dist/bundle.js
 
-## 快速使用
+## 经典排序-javascript
 
-简单的文档
-
-- [使用文档](./doc/use/README.md)
-- [二次开发文档](./doc/dev/README.md)
+- [冒泡排序](./doc/sort/bubble.md)
 
 ## 交流 & 提问
 
